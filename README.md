@@ -1,4 +1,4 @@
-<body background-color="red">
+![logo](https://github.com/Prayatna2007/Prayatna2007/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prayatna Shrestha</h1>
 <h3 align="center">A passionate and enthusiast learner.</h3>
 <img alt="Coding" width="1000" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
