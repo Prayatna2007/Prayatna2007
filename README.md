@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prayatna Shrestha</h1>
 <h3 align="center">A passionate and enthusiast learner.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-animation%2F916702624332%2F&psig=AOvVaw2HFcgJCFuY-F8M-Kg0Z-h7&ust=1747118006410000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjq-vWnnY0DFQAAAAAdAAAAABAZ"
+<img align="right" alt="Coding" width="400" src="["](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 - 🌱 I’m currently learning **python.**
 
 - 📫 How to reach me **sthaprayatna147@gmail.com**
