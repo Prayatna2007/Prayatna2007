@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prayatna Shrestha</h1>
 <h3 align="center">A passionate and enthusiast learner.</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/e0165d8d-14ce-41f7-acfd-7209f2aa7139)"
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/42995371460484808/"
 
 - 🌱 I’m currently learning **python.**
 
